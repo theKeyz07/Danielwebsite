@@ -1,0 +1,10 @@
+{
+  "icons": [
+    {"src": "img/andriod--192px.png",
+  "type":"img/png", "size":
+ "192*192" },
+ {"src": "img/favicon.png",
+  "type":"img/png", "size":
+ "512*512" }
+  ]
+}
